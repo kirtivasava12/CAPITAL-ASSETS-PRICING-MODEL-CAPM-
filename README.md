@@ -1,1 +1,1 @@
-# CAPITAL-ASSETS-PRICING-MODEL-CAPM-
+#  The Capital Asset Pricing Model (CAPM) is a financial theory that calculates the expected return on an investment based on its risk compared to the overall market. It factors in the risk-free rate, the asset's beta , and the market's expected return.
